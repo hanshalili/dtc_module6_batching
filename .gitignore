@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Spark / Java
+java-11-openjdk-amd64/
+java-17-openjdk-amd64/
+
+# Data files (DO NOT PUSH)
+*.csv
+*.csv.gz
+*.parquet
+
+# uv
+uv.lock
